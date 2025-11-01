@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "fullName": "Nguyen Van A",
+      "email": "a.nguyen@example.com",
+      "position": "Developer3",
+      "department": "Bán hàng",
+      "startDate": "2022-01-29"
+    },
+    {
+      "id": "5444",
+      "fullName": "Nguyen Van A",
+      "email": "hoangnam131020@gmail.com",
+      "position": "Developer3",
+      "department": "IT",
+      "startDate": "2025-11-30"
+    },
+    {
+      "id": "a92d",
+      "fullName": "Nguyen Van B",
+      "email": "hoang@gmail.com",
+      "position": "s",
+      "department": "Kế toán",
+      "startDate": "2025-11-30"
+    },
+    {
+      "id": "bb23",
+      "fullName": "Nguyen Van c",
+      "email": "hoang@gmail.com",
+      "position": "Developer3",
+      "department": "Kế toán",
+      "startDate": "2025-12-07"
+    },
+    {
+      "id": "8bab",
+      "fullName": "Nguyen Van $",
+      "email": "hoang@gmail.com",
+      "position": "Developer3",
+      "department": "Nhân sự",
+      "startDate": "2025-11-29"
+    },
+    {
+      "id": "b924",
+      "fullName": "Nguyen Van $1",
+      "email": "hoang@gmail.com",
+      "position": "Developer3",
+      "department": "Nhân sự",
+      "startDate": "2025-11-30"
+    },
+    {
+      "id": "69d3",
+      "fullName": "Nguyen Van B2",
+      "email": "44.01.104.145@ga.com",
+      "position": "Developer3",
+      "department": "Nhân sự",
+      "startDate": "2025-12-07"
+    }
+  ]
+}
